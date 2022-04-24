@@ -8,6 +8,7 @@ First run docker-compose up -d to start the services.
 Then run npm run start to start the server.
 
 # Deploy 
+Run npm run build before.
 Deployment is done on heroku.
 
 heroku git:remote -a MY-HEROKU-APP
